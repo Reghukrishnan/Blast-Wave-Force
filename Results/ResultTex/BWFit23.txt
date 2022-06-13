@@ -1,0 +1,10 @@
+\begin{center}
+\begin{tabular}{| l |c| c| c | c|} \hline 
+Particle           &       T (MeV)          & $\left \langle \beta_T \right \rangle$ & $\beta_{max}$  & $\chi^2_{red}$\\[0.5ex] \hline$P$  &   3.72  &   0.588  &   0.806  &   5.44  \\ [0.5ex] \hline 
+$\bar{P}$    &   3.74  &   0.588  &   0.806  &   3.92  \\ [0.5ex] \hline 
+$PI$  &   1.95e+03  &   0.557  &   0.782  &   42.9  \\ [0.5ex] \hline 
+$\bar{PI}$    &   1.96e+03  &   0.558  &   0.782  &   43.1  \\ [0.5ex] \hline 
+$K$  &   42.1  &   0.574  &   0.795  &   3.19  \\ [0.5ex] \hline 
+$\bar{K}$    &   41.7  &   0.572  &   0.794  &   3.61  \\ [0.5ex] \hline 
+\end{tabular} 
+\end{center}

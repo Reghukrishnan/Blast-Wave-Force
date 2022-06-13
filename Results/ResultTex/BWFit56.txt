@@ -1,0 +1,10 @@
+\begin{center}
+\begin{tabular}{| l | c| c | c|} \hline 
+Particle              & $\left \langle \beta_T \right \rangle$ & $\beta_{max}$  & $\chi^2_{red}$\\[0.5ex] \hline$P$  &   0.542   &   0.768  &   19.3  \\ [0.5ex] \hline 
+$\bar{P}$   &   0.538  &   0.765  &   16.6  \\ [0.5ex] \hline 
+$PI$  &   0.546   &   0.772  &   60.0  \\ [0.5ex] \hline 
+$\bar{PI}$   &   0.547  &   0.773  &   60.7  \\ [0.5ex] \hline 
+$K$  &   0.554   &   0.779  &   8.88  \\ [0.5ex] \hline 
+$\bar{K}$   &   0.551  &   0.776  &   8.87  \\ [0.5ex] \hline 
+\end{tabular} 
+\end{center}
